@@ -1,5 +1,7 @@
 # @umijs/test-utils
 
+Test utils for plugins of umi.
+
 ## Install
 
 ```bash
