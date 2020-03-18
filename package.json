@@ -1,6 +1,6 @@
 {
   "name": "@umijs/test-utils",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0",
   "description": "Test utils for plugins of umi.",
   "main": "index.js",
   "repository": {
