@@ -1,6 +1,6 @@
 # @umijs/test-utils
 
-## 安装
+## Install
 
 ```bash
 $ yarn add @umijs/test-utils -D
@@ -8,7 +8,7 @@ $ yarn add @umijs/test-utils -D
 
 依赖 umi 和 @testing-library/react，请确保同时依赖了他们。
 
-## 测临时文件
+## Test tmp file
 
 ```js
 import { generateTmp, render } from '@umijs/test-utils';
@@ -24,7 +24,7 @@ test('normal', async () => {
 });
 ```
 
-## 测 HTML
+## Test HTML
 
 ```js
 import { generateHTML, getHTML } from '@umijs/test-utils';
